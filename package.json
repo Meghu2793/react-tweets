@@ -12,6 +12,7 @@
   "author": "Ken Wheeler",
   "license": "MIT",
   "dependencies": {
+    "bson": "^1.1.0",
     "express": "^4.16.4",
     "express-handlebars": "^3.0.0",
     "mongoose": "^4.2.6",
